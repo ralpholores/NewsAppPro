@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="net.colindodd:gradientlayout-1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gradientlayout-1.2.aar/be126f7c0b11a94597f33d474079bdaf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gradientlayout-1.2.aar/be126f7c0b11a94597f33d474079bdaf/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.colindodd/gradientlayout/1.2/55c1f4254686a97eef2c2d56124b5c9922b7dcd/gradientlayout-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
